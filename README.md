@@ -14,5 +14,4 @@ Programming Language: Lua
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [YouTube](https://www.youtube.com/watch?v=-cVx8zOL4gc&list=PLdHW9On5G8NIVm5zt8m8X-koDb8_nmutR&index=9)
